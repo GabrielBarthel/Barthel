@@ -1,6 +1,6 @@
 ## Olá, Me chamo Gabriel Barthel 👋
 
-🔭 - Procurando uma oportunidade para ingressar no mercado como DEV
+🔭 - Procurando uma oportunidade para ingressar no mercado como DEV <br/>
 💻 - Estou Estudando JS, React, HTML, CSS, Jquery, Bootstraph, Java e SQL
 
 <div style="display: inline_block"><br>
